@@ -8,3 +8,7 @@
 .plans-container--slider {
   justify-content: center;
 }
+
+.bitcoin-img-container {
+  background-image: url('../assets/img/bitcoinbaby2x.png');
+}
