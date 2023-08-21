@@ -1,0 +1,10 @@
+.product-cards--container {
+  display: grid;
+  grid-template-columns: 370px 370px;
+  place-content: center;
+  gap: 0 40px;
+}
+
+.plans-container--slider {
+  justify-content: center;
+}
